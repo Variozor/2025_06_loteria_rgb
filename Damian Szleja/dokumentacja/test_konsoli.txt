@@ -1,0 +1,154 @@
+Dane wejściowe:
+100
+
+Wynik rzeczywistego uruchomienia:
+Ile zestawów wylosować? Podaj liczbę dodatnią:
+Zestaw 1: 37 3 33 26 2 10 
+Zestaw 2: 17 40 45 14 42 30 
+Zestaw 3: 43 24 11 28 19 46 
+Zestaw 4: 29 7 41 39 35 24 
+Zestaw 5: 9 33 23 28 34 46 
+Zestaw 6: 46 36 10 43 22 47 
+Zestaw 7: 29 6 24 37 45 32 
+Zestaw 8: 1 35 5 34 22 32 
+Zestaw 9: 3 22 24 29 34 18 
+Zestaw 10: 48 31 23 24 25 44 
+Zestaw 11: 38 10 17 33 1 7 
+Zestaw 12: 45 28 27 40 14 30 
+Zestaw 13: 38 13 33 34 18 43 
+Zestaw 14: 26 17 42 41 5 23 
+Zestaw 15: 2 1 43 42 35 27 
+Zestaw 16: 47 31 7 22 5 12 
+Zestaw 17: 27 20 49 9 18 46 
+Zestaw 18: 30 45 31 2 37 20 
+Zestaw 19: 2 29 32 16 43 38 
+Zestaw 20: 25 44 21 24 30 39 
+Zestaw 21: 21 47 25 29 44 31 
+Zestaw 22: 41 29 35 16 1 40 
+Zestaw 23: 18 41 14 17 40 43 
+Zestaw 24: 44 12 17 7 29 15 
+Zestaw 25: 26 15 25 20 30 48 
+Zestaw 26: 35 3 34 49 37 10 
+Zestaw 27: 38 15 26 4 1 31 
+Zestaw 28: 22 6 36 40 43 18 
+Zestaw 29: 35 4 32 24 23 36 
+Zestaw 30: 8 3 2 23 19 24 
+Zestaw 31: 18 23 27 24 12 9 
+Zestaw 32: 10 2 6 24 22 8 
+Zestaw 33: 11 39 42 7 41 35 
+Zestaw 34: 48 12 39 32 13 15 
+Zestaw 35: 3 25 49 30 18 21 
+Zestaw 36: 32 13 20 46 25 17 
+Zestaw 37: 13 7 21 5 26 9 
+Zestaw 38: 4 31 13 38 46 22 
+Zestaw 39: 17 36 14 19 9 31 
+Zestaw 40: 42 47 6 16 25 21 
+Zestaw 41: 5 6 48 37 40 31 
+Zestaw 42: 27 35 49 37 40 11 
+Zestaw 43: 5 43 39 21 49 47 
+Zestaw 44: 24 46 15 14 26 16 
+Zestaw 45: 45 12 18 23 17 31 
+Zestaw 46: 28 8 26 6 38 47 
+Zestaw 47: 49 12 46 31 16 34 
+Zestaw 48: 15 39 33 38 2 48 
+Zestaw 49: 29 11 1 19 40 7 
+Zestaw 50: 30 38 24 29 7 5 
+Zestaw 51: 10 6 38 7 26 17 
+Zestaw 52: 27 35 47 18 1 33 
+Zestaw 53: 40 5 31 36 7 13 
+Zestaw 54: 8 22 49 11 2 4 
+Zestaw 55: 39 10 8 26 49 4 
+Zestaw 56: 15 6 16 24 10 28 
+Zestaw 57: 13 48 1 46 40 18 
+Zestaw 58: 41 36 44 33 4 14 
+Zestaw 59: 17 27 20 41 33 21 
+Zestaw 60: 24 19 21 8 49 46 
+Zestaw 61: 29 38 16 30 6 45 
+Zestaw 62: 26 20 13 38 4 37 
+Zestaw 63: 44 48 10 22 45 47 
+Zestaw 64: 19 17 37 32 12 33 
+Zestaw 65: 46 8 32 3 42 28 
+Zestaw 66: 19 18 4 45 12 40 
+Zestaw 67: 22 21 16 26 3 28 
+Zestaw 68: 8 32 13 34 30 48 
+Zestaw 69: 28 42 38 23 39 37 
+Zestaw 70: 15 17 34 41 20 23 
+Zestaw 71: 17 19 49 11 44 7 
+Zestaw 72: 20 41 1 7 30 3 
+Zestaw 73: 47 40 43 37 12 35 
+Zestaw 74: 16 23 15 19 41 43 
+Zestaw 75: 23 42 28 38 49 44 
+Zestaw 76: 11 3 1 37 40 10 
+Zestaw 77: 42 25 22 37 21 6 
+Zestaw 78: 44 28 39 10 47 21 
+Zestaw 79: 46 16 21 35 7 23 
+Zestaw 80: 13 2 44 6 16 23 
+Zestaw 81: 13 47 10 19 36 42 
+Zestaw 82: 1 5 25 32 38 21 
+Zestaw 83: 1 16 9 49 28 11 
+Zestaw 84: 33 2 44 25 20 9 
+Zestaw 85: 9 16 22 39 21 36 
+Zestaw 86: 28 36 41 33 2 4 
+Zestaw 87: 38 37 34 40 21 43 
+Zestaw 88: 41 9 24 7 12 28 
+Zestaw 89: 5 44 22 48 10 16 
+Zestaw 90: 47 14 5 26 46 49 
+Zestaw 91: 8 20 6 44 15 43 
+Zestaw 92: 1 5 44 15 49 18 
+Zestaw 93: 15 31 36 27 16 8 
+Zestaw 94: 11 8 20 17 35 24 
+Zestaw 95: 33 18 43 21 19 36 
+Zestaw 96: 43 37 48 35 24 2 
+Zestaw 97: 47 34 30 44 14 9 
+Zestaw 98: 38 7 42 35 46 5 
+Zestaw 99: 23 32 13 43 40 33 
+Zestaw 100: 18 5 13 36 9 34 
+Wystąpienia liczby 1: 13
+Wystąpienia liczby 2: 12
+Wystąpienia liczby 3: 9
+Wystąpienia liczby 4: 9
+Wystąpienia liczby 5: 14
+Wystąpienia liczby 6: 12
+Wystąpienia liczby 7: 15
+Wystąpienia liczby 8: 11
+Wystąpienia liczby 9: 11
+Wystąpienia liczby 10: 13
+Wystąpienia liczby 11: 9
+Wystąpienia liczby 12: 10
+Wystąpienia liczby 13: 13
+Wystąpienia liczby 14: 8
+Wystąpienia liczby 15: 12
+Wystąpienia liczby 16: 15
+Wystąpienia liczby 17: 14
+Wystąpienia liczby 18: 14
+Wystąpienia liczby 19: 11
+Wystąpienia liczby 20: 11
+Wystąpienia liczby 21: 16
+Wystąpienia liczby 22: 13
+Wystąpienia liczby 23: 14
+Wystąpienia liczby 24: 17
+Wystąpienia liczby 25: 10
+Wystąpienia liczby 26: 12
+Wystąpienia liczby 27: 8
+Wystąpienia liczby 28: 13
+Wystąpienia liczby 29: 10
+Wystąpienia liczby 30: 11
+Wystąpienia liczby 31: 12
+Wystąpienia liczby 32: 11
+Wystąpienia liczby 33: 13
+Wystąpienia liczby 34: 11
+Wystąpienia liczby 35: 14
+Wystąpienia liczby 36: 12
+Wystąpienia liczby 37: 14
+Wystąpienia liczby 38: 16
+Wystąpienia liczby 39: 10
+Wystąpienia liczby 40: 15
+Wystąpienia liczby 41: 12
+Wystąpienia liczby 42: 11
+Wystąpienia liczby 43: 15
+Wystąpienia liczby 44: 15
+Wystąpienia liczby 45: 8
+Wystąpienia liczby 46: 14
+Wystąpienia liczby 47: 13
+Wystąpienia liczby 48: 10
+Wystąpienia liczby 49: 14
